@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime files
+*.log
+*.pid
+.bot.pid
+unknown_errors.txt
+
+# Secrets
+config.py
+.env
+
+# Telegram session files
+*.session
+*.session-journal
+
+# Runtime data
+data/*.json
+platform_data.json
+platform_dyyata.json
+
